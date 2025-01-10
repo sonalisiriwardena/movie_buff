@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "573447165525",
+    "project_id": "movie-buff-cae78",
+    "storage_bucket": "movie-buff-cae78.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573447165525:android:399ec9da4c32f4d498e6dc",
+        "android_client_info": {
+          "package_name": "com.example.movie_buff"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5UcaARHCYoAAgeB-VdEoJ686XRW--xE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573447165525:android:cbcad4b96b40410398e6dc",
+        "android_client_info": {
+          "package_name": "com.example.moviebuff"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5UcaARHCYoAAgeB-VdEoJ686XRW--xE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
